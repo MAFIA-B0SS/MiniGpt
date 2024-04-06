@@ -5,4 +5,7 @@ Chatgpt Application for Windows Platform
 * You Must Have OpenAi API key to generate Responses</br>
 that's all Enjoy Using The App</br>
 # Video Preview</br>
-https://github.com/MAFIA-B0SS/MiniGpt/blob/f5a2274c3b1b974310760606ac1443c869587049/preview.mp4
+
+
+https://github.com/MAFIA-B0SS/MiniGpt/assets/39020530/8327fd78-997c-45e2-9cde-9173a8f0a5f4
+
